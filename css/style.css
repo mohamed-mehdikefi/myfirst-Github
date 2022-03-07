@@ -1,0 +1,15 @@
+
+ul, li{
+list-style: none;
+margin: 0px;
+padding: 0px;
+cursor: pointer;
+}
+
+section#cart ul{
+
+height: 200px;
+
+overflow: auto;
+background-color: #cccccc;
+}
